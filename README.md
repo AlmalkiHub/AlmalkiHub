@@ -15,7 +15,7 @@
 ## About me
 
 - 👨🏻‍🎓 I'm a recent MSc Data Science Graduate from the University of Bristol.
-- 👨🏻‍💻 I’m currently learning and cooking a lot of Deep Learning code with TensorFlow.
+- 👨🏻‍💻 I’m currently learning and cooking up lots of Deep Learning code with TensorFlow.
 - 🤸🏻 I exercise 4-5 times a week.
 - 🪂 I love skydiving.
 - 🎹 I am a novice pianist.
