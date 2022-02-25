@@ -29,6 +29,7 @@
 ### 🛠 Tools
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp;
 ![ScikitLearn](https://img.shields.io/badge/-ScikitLearn-05122A?style=flat&logo=ScikitLearn)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;
